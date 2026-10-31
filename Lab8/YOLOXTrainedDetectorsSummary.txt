@@ -1,0 +1,12 @@
+YOLOX Trained Detectors Summary
+
+Files are available in ./BDD100K
+
++--------------------------+----------+-----------+-----------+---------------+---------------------+---------------+
+|           Name           | Exercise | MaxEpochs | InputSize | MiniBatchSize | ValidationFrequency | YOLOXDetector |
++--------------------------+----------+-----------+-----------+---------------+---------------------+---------------+
+| trainedDetector_e2-1.mat |    E2    |    30     |    640    |      16       |         10          |     tiny      |
+| trainedDetector_e2-2.mat |    E2    |    50     |   1080    |       8       |         20          |     tiny      |
+|  trainedDetector_e2.mat  |    E2    |    50     |   1024    |       4       |         20          |     small     |
+|  trainedDetector_e3.mat  |    E3    |    50     |   1024    |       4       |         20          |     small     |
++--------------------------+----------+-----------+-----------+---------------+---------------------+---------------+
