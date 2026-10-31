@@ -1,0 +1,16 @@
+# Course handouts and logbook templates (UOW copyright)
+*.pdf
+*.docx
+*.url
+
+# Large datasets, videos and trained models
+Lab7/Traffic_Sign_Recognition_Dataset/
+Lab8/BDD100K-Subset/
+*.avi
+*.mat
+
+# MATLAB autosave / cache
+*.asv
+*.m~
+slprj/
+*.slxc
